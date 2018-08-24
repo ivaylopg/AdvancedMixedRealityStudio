@@ -68,7 +68,8 @@ Your final grade will be made up from:
 * Final Project - Shared AR Experience: 30%
 
 ### Guidelines and Policies
-Please review the official department guidelines and policies on the [printed syllabus](https://github.com/ivaylopg/AdvancedMixedReality/blob/master/SyllabusTech3707.pdf).
+Please review the official department guidelines and policies on the [printed syllabus](https://github.com/ivaylopg/AdvancedMixedRealityStudio/blob/master/SyllabusTech3707.pdf).
+
 
 ---
 
