@@ -76,7 +76,7 @@ Please review the official department guidelines and policies on the [printed sy
 ## Schedule (_Tentative_)
 
 
-### Session 01 - 08/24/18
+### [Session 01 - 08/24/18](https://github.com/ivaylopg/AdvancedMixedRealityStudio/tree/master/ClassNotes/Session01)
 * **Chapter 0** - Recap Basics
 * Introductions, course overview, housekeeping
 * Recap/Refresher of AR/VR/MR design principles
@@ -89,7 +89,7 @@ Please review the official department guidelines and policies on the [printed sy
 * Unity/C# Intensive
     * Shaking out all the summer cobwebs
 
-### Session 02 - 08/31/18
+### [Session 02 - 08/31/18](https://github.com/ivaylopg/AdvancedMixedRealityStudio/tree/master/ClassNotes/Session02)
 * **Chapter 0** - Recap Basics
 * Recap/Refresher Continued
 * Unity and C# Topics TBD
