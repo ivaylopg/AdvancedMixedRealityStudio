@@ -96,11 +96,11 @@ Please review the official department guidelines and policies on the [printed sy
 * In-class programming exercises
 
 ### Session 03 - 09/07/18
-* NO CLASS - Makeup Session TBD
+* NO CLASS - Makeup Session TBA
 
-### Session 04 - 09/14/18
+### [Session 04 - 09/14/18](https://github.com/ivaylopg/AdvancedMixedRealityStudio/tree/master/ClassNotes/Session04)
 * **Chapter 1** - Expanding on Fundamentals
-* Guest Lecture and Discussion - Nick Shelton from [TheWaveVR](http://thewavevr.com/)
+* Guest Lecture and Discussion - [Nick Shelton](https://nshelton.github.io/about/) from [TheWaveVR](http://thewavevr.com/)
     * Spatial Tracking and SLAM for AR
     * AR Case studies
 
