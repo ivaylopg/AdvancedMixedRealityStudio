@@ -106,7 +106,10 @@ Please review the official department guidelines and policies on the [printed sy
 
 ### Session 05 - 09/21/18
 * **Chapter 1** - Expanding on Fundamentals
-* Guest Lecture and Discussion: TBD
+* Guest Lecture and Discussion: [Caco Peguero](http://unitedfutur.es/)
+    * **ATM** - _Art, Tools, Markets_
+    * Working in creative teams
+    * AR/VR Case studies
 
 ### Session 06 - 09/28/18
 * **Chapter 1** - Expanding on Fundamentals
