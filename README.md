@@ -117,7 +117,7 @@ Please review the official department guidelines and policies on the [printed sy
     * using git and .gitignore
     * setting up Unity for git
 
-### [Session 07 - 10/05/18](https://github.com/ivaylopg/AdvancedMixedRealityStudio/tree/master/ClassNotes/Session0)
+### [Session 07 - 10/05/18](https://github.com/ivaylopg/AdvancedMixedRealityStudio/tree/master/ClassNotes/Session07)
 * **Chapter 2** - Interactive AR
 * Project Intro
 * Discussion of virtual vs real-world coordinate systems
