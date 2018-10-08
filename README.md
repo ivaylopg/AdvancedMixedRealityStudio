@@ -117,7 +117,7 @@ Please review the official department guidelines and policies on the [printed sy
     * using git and .gitignore
     * setting up Unity for git
 
-### Session 07 - 10/05/18
+### [Session 07 - 10/05/18](https://github.com/ivaylopg/AdvancedMixedRealityStudio/tree/master/ClassNotes/Session0)
 * **Chapter 2** - Interactive AR
 * Project Intro
 * Discussion of virtual vs real-world coordinate systems
@@ -137,6 +137,9 @@ Please review the official department guidelines and policies on the [printed sy
     * Topics TBD as needed
 
 ### Session 10 - 10/26/18
+* **Chapter 2** - Interactive AR
+    * Projects Due!
+    * Share + Discuss
 * **Chapter 3** - Shared AR Experience
 * Project Intro
 * Setting up multi client communication
