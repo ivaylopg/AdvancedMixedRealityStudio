@@ -137,14 +137,17 @@ Please review the official department guidelines and policies on the [printed sy
     * Topics TBD as needed
 
 ### Session 10 - 10/26/18
-* **Chapter 2** - Interactive AR
-    * Projects Due!
-    * Share + Discuss
-* **Chapter 3** - Shared AR Experience
-* Project Intro
-* Setting up multi client communication
-* Introduction to node.js
-* Setting up a node server with socket.io
+* **Morning Session:**
+    * Field trip to Oblong Industries!
+* **Afternoon Session:**
+    * **Chapter 2** - Interactive AR
+        * Projects Due!
+        * Share + Discuss
+    * **Chapter 3** - Shared AR Experience
+        * Project Intro
+        * Setting up multi client communication
+        * Introduction to node.js
+        * Setting up a node server with socket.io
 
 ### Session 11 - 11/02/18
 * **Chapter 3** - Shared AR Experience
