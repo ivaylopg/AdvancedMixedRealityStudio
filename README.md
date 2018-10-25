@@ -125,13 +125,13 @@ Please review the official department guidelines and policies on the [printed sy
 * Introducing Vuforia
     * Making our first marker-based AR app
 
-### Session 08 - 10/12/18
+### [Session 08 - 10/12/18](https://github.com/ivaylopg/AdvancedMixedRealityStudio/tree/master/ClassNotes/Session08)
 * **Chapter 2** - Interactive AR
 * Intermediate Unity/C#:
     * Event-driven vs Loop-driven code
     * Responding to image-recognition events
 
-### Session 09 - 10/19/18
+### [Session 09 - 10/19/18](https://github.com/ivaylopg/AdvancedMixedRealityStudio/tree/master/ClassNotes/Session09)
 * **Chapter 2** - Interactive AR
 * Interactive AR Project workshop and notes
     * Topics TBD as needed
@@ -142,26 +142,24 @@ Please review the official department guidelines and policies on the [printed sy
 * **Afternoon Session:**
     * **Chapter 2** - Interactive AR
         * Projects Due!
+        * Practice Building to iPads
         * Share + Discuss
-    * **Chapter 3** - Shared AR Experience
-        * Project Intro
-        * Setting up multi client communication
-        * Introduction to node.js
-        * Setting up a node server with socket.io
 
 ### Session 11 - 11/02/18
 * **Chapter 3** - Shared AR Experience
-* Designing shared experience
-    * Discussion of design and graphics for group experience
+* Project Intro
+* Setting up multi client communication
+* Introduction to node.js
+    * Setting up a node server with socket.io
 * Setting standards
     * Discussion of API definition common to everyone's project
-* Intermediate C#
-    * Creating `Interfaces` for shared C# code modules
 
 ### Session 12 - 11/09/18
 * **Chapter 3** - Shared AR Experience
-* Final Project workshop and notes
-    * Topics TBD as needed
+* Intermediate C#
+    * Creating `Interfaces` for shared C# code modules
+* Designing shared experience
+    * Discussion of design and graphics for group experience
 
 ### Session 13 - 11/16/18
 * **Chapter 3** - Shared AR Experience
