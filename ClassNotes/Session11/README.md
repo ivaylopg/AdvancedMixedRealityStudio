@@ -1,6 +1,6 @@
 # Session 11 - Introduction to node.js, APIs, and Unity Web Requests
 
-_Note 1: These are a very quick recap of the lesson. Please see me if you have questions._
+_Note 1: These are a very quick recap of the lesson. Please see me if you have questions._    
 _Note 2: I haven't included the socket.io stuff here yet. I want to go over that one more time in class before I post the notes. The below should be enough for your homework exercise_
 
 ## Problem to solve: I've got a computer over here. I've got another computer over there. How do we talk?
@@ -91,7 +91,7 @@ _Note 2: I haven't included the socket.io stuff here yet. I want to go over that
         * It is an interface _into_ an app or software.
             * If you set up a server or library that does something, you most likely want to create and document a set of functions that people can use to actually incorporate your library or talk to your server.
 
-## Problem part three: I've got a computer over here _running a Unity app_, and I want to talk to a computer over there..._
+## Problem part three: I've got a computer over here _running a Unity app_, and I want to talk to a computer over there...
 * Take a look at `ClickToCommunicate.cs` and the comments in there
 
 
