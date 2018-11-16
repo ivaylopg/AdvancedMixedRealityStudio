@@ -159,7 +159,7 @@ Please review the official department guidelines and policies on the [printed sy
 * Designing shared experience
     * Discussion of design and graphics for group experience
 
-### Session 13 - 11/16/18
+### [Session 13 - 11/16/18](https://github.com/ivaylopg/AdvancedMixedRealityStudio/tree/master/ClassNotes/Session11)
 * **Chapter 3** - Shared AR Experience
 * Final Project workshop and notes
     * Topics TBD as needed

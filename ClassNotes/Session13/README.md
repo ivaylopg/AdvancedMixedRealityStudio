@@ -3,6 +3,7 @@
 ## Unity
 Your Unity AR scene will use Vuforia to recognize 5 _unique_ markers (your choice!)
 - These markers **MUST** be named _marker01_ through _marker05_ (case sensitive!)
+    - Take a look at [MarkerDetected.cs](https://github.com/ivaylopg/AdvancedMixedRealityStudio/blob/master/CodeAndResources/VuforiaExamples/MarkerDetected.cs) to remember how to get name of a marker's game object!
 
 Your Unity projects will need to:
 - Generate and save an ID for each user
@@ -10,7 +11,7 @@ Your Unity projects will need to:
     - Extra credit if they only get asked once per game (for example, if I open the app and join a team, it will _not_ ask me again if I close and re-open the app before the current game is over)
 - Once they have joined, send ID and team to: `http://ar.pixels-pixels.com/joined/:id/:team`
 - Each time they capture a marker, send marker name to: `http://ar.pixels-pixels.com/captured/:id/:markerName`
-    - Take a look at [MarkerDetected.cs](https://github.com/ivaylopg/AdvancedMixedRealityStudio/blob/master/CodeAndResources/VuforiaExamples/MarkerDetected.cs) to remember how to get name of a marker's game object!
+    - Take a look at [MarkerDetected.cs](https://github.com/ivaylopg/AdvancedMixedRealityStudio/blob/master/CodeAndResources/VuforiaExamples/MarkerDetected.cs) to remember how to get name of a marker's game object
 - Display some sort of AR content to indicate that the players has captured this marker
     - **Extra Credit 01:** Display something different if player is capturing a neutral marker, capturing from opposing team, or has just scanned a marker that already belongs to them.
     - **Extra Credit 02:** Display current status of marker while players have to focus on marker for _5 seconds_ to capture it 
