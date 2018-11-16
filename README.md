@@ -145,7 +145,7 @@ Please review the official department guidelines and policies on the [printed sy
         * Practice Building to iPads
         * Share + Discuss
 
-### Session 11 - 11/02/18
+### [Session 11 - 11/02/18](https://github.com/ivaylopg/AdvancedMixedRealityStudio/tree/master/ClassNotes/Session11)
 * **Chapter 3** - Shared AR Experience
 * Project Intro
 * Setting up multi client communication
@@ -156,8 +156,6 @@ Please review the official department guidelines and policies on the [printed sy
 
 ### Session 12 - 11/09/18
 * **Chapter 3** - Shared AR Experience
-* Intermediate C#
-    * Creating `Interfaces` for shared C# code modules
 * Designing shared experience
     * Discussion of design and graphics for group experience
 
