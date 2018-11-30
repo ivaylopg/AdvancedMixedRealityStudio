@@ -24,6 +24,10 @@ Your Unity projects will need to:
     - **Every Second**, the server will emit a socket event called `timeUpdate` with a JSON object (See _TimeUpdateData_ below). Use this to update the game clock and get the current status of all markers.
 
 ### Note:
+Server info:
+- address: ar.pixels-pixels.com
+- port: 80
+
 To test any of the above socket events, from any web browser, go to:
 - `http://ar.pixels-pixels.com/testSocket/markerCaptured`
 - `http://ar.pixels-pixels.com/testSocket/gameStatus`    
