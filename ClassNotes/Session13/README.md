@@ -20,7 +20,7 @@ Your Unity projects will need to:
     - **Extra Credit 03:** Display current status of marker while players have to focus on marker for _5 seconds_ in order to capture it 
 - Listen for socket events:
     - Every time **any** player captures a marker, the server will emit a socket event called `markerCaptured` with a JSON object (See _MarkerCapturedData_ below). Process this object and and display some information to the user.
-    - At the end of each hour-long round, the server will emit a socket event called `gameStatus` with a JSON object (See _gameStatusData_ below). Process this object and and display some information to the user.
+    - At the end of each hour-long round, the server will emit a socket event called `gameStatusData` with a JSON object (See _gameStatusData_ below). Process this object and and display some information to the user.
     - **Every Second**, the server will emit a socket event called `timeUpdate` with a JSON object (See _TimeUpdateData_ below). Use this to update the game clock and get the current status of all markers.
 
 ### Note:
