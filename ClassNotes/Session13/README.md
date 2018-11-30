@@ -26,7 +26,7 @@ Your Unity projects will need to:
 ### Note:
 To test any of the above socket events, from any web browser, go to:
 - `http://ar.pixels-pixels.com/testSocket/markerCaptured`
-- `http://ar.pixels-pixels.com/testSocket/gameStatus`
+- `http://ar.pixels-pixels.com/testSocket/gameStatus`    
 `timeUpdate` will automatically send updates every second to all connected sockets.
 
 The full code of the server running at `http://ar.pixels-pixels.com` is copied [here](https://github.com/ivaylopg/AdvancedMixedRealityStudio/tree/master/ClassNotes/Session13/FinalProjectServer).    
